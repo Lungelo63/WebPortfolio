@@ -1,3 +1,2 @@
-## Personal Portfolio
-
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+My own personal pertfolio website. Describes everything about 
+Me and the tech world. 
